@@ -1,13 +1,12 @@
 # Site settings
-title: Clean Blog
+title: ZP
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: prytherchzc@cf.ac.uk
+description: "This is the personal website of Dr Zoe Prytherch; lectuer at Cardiff University school of biosciences"
 baseurl: "/startbootstrap-clean-blog-jekyll"
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username: DrZCPrytherch
+github_username: zcprytherch
 
 # Build settings
 markdown: kramdown
