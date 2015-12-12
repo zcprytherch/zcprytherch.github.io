@@ -44,6 +44,7 @@ template {
 }
 a {
   background-color: transparent;
+  font-weight: bold;
 }
 a:active,
 a:hover {
