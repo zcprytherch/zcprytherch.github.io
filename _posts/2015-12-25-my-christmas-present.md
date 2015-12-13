@@ -18,4 +18,4 @@ learn (with my husband's help!):
 - Using version control.
 
 This Christmas present also comes with a life long supply of technical support
-from my husband.
+from my husband and a set of videos to help learn what I need to know.
