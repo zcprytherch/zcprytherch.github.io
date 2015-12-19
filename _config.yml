@@ -1,0 +1,16 @@
+# Site settings
+title: ZP
+header-img: img/home-bg.jpg
+email: prytherchzc@cf.ac.uk
+description: "This is the personal website of Dr Zoë Prytherch; lectuer at Cardiff University school of biosciences"
+baseurl: "/zcprytherch.github.io"
+url: "http://zcprytherch.github.io/"
+twitter_username: DrZCPrytherch
+github_username: zcprytherch
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
